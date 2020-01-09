@@ -1,0 +1,36 @@
+html {
+    background-color: black;
+    text-align: center;
+    font-family: 'Roboto';
+    color: white;
+}
+header h1 {
+    color: white;
+    font-size: 50px;
+    font-weight: 400;
+    letter-spacing: 0.1em;
+}
+
+h4 a {
+color: #7FFFD4;
+font-weight: 300;
+font-size: 16px;
+}
+.category h1 {
+    font-size: 42px;
+    font-weight: 100;
+}
+.travel h3 {
+    font-size: 21px;
+    color: gray;
+}
+.soon {
+    margin: 20px auto;
+}
+footer {
+    text-align: right;
+    color: gray;
+}
+i {
+    color: white;
+}
